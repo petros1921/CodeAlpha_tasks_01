@@ -1,0 +1,242 @@
+[
+  {
+    "id": "1",
+    "name": "Wireless Headphones",
+    "description": "Premium noise-cancelling wireless headphones with 30-hour battery life.",
+    "price": 149.99,
+    "image": "/images/headphones.jpg",
+    "category": "electronics"
+  },
+  {
+    "id": "2",
+    "name": "Smart Watch",
+    "description": "Track your fitness, receive notifications, and more with this sleek smart watch.",
+    "price": 249.99,
+    "image": "/images/smartwatch.jpg",
+    "category": "electronics"
+  },
+  {
+    "id": "3",
+    "name": "Organic Cotton T-Shirt",
+    "description": "Comfortable, eco-friendly t-shirt made from 100% organic cotton.",
+    "price": 29.99,
+    "image": "/images/cotton.jpg",
+    "category": "clothing"
+  },
+  {
+    "id": "4",
+    "name": "Leather Wallet",
+    "description": "Handcrafted genuine leather wallet with RFID protection.",
+    "price": 59.99,
+    "image": "/images/wallet.jpg",
+    "category": "accessories"
+  },
+  {
+    "id": "5",
+    "name": "Stainless Steel Water Bottle",
+    "description": "Double-walled insulated bottle that keeps drinks cold for 24 hours or hot for 12 hours.",
+    "price": 34.99,
+    "image": "/images/bottle.jpg",
+    "category": "home"
+  },
+  {
+    "id": "6",
+    "name": "Wireless Charging Pad",
+    "description": "Fast wireless charging for all Qi-enabled devices.",
+    "price": 39.99,
+    "image": "/images/charging_pad.jpg",
+    "category": "electronics"
+  },
+  {
+    "id": "7",
+    "name": "Ceramic Coffee Mug",
+    "description": "Handmade ceramic mug, perfect for your morning coffee or tea.",
+    "price": 19.99,
+    "image": "/images/Mug.jpg",
+    "category": "home"
+  },
+  {
+    "id": "8",
+    "name": "Bluetooth Speaker",
+    "description": "Portable waterproof speaker with amazing sound quality and 20-hour battery life.",
+    "price": 89.99,
+    "image": "/images/speaker.jpg",
+    "category": "electronics"
+  },
+  {
+    "id": "9",
+    "name": "Gaming Mouse",
+    "description": "High-precision gaming mouse with customizable buttons and RGB lighting.",
+    "price": 49.99,
+    "image": "/images/mouse.jpg",
+    "category": "electronics"
+  },
+  {
+    "id": "10",
+    "name": "Portable Power Bank",
+    "description": "10,000mAh fast-charging power bank for your devices on the go.",
+    "price": 29.99,
+    "image": "/images/power_bank.jpg",
+    "category": "electronics"
+  },
+  {
+    "id": "11",
+    "name": "Mechanical Keyboard",
+    "description": "RGB backlit mechanical keyboard with tactile switches.",
+    "price": 99.99,
+    "image": "/images/keyboard.jpg",
+    "category": "electronics"
+  },
+  {
+    "id": "12",
+    "name": "Noise Cancelling Earbuds",
+    "description": "Compact wireless earbuds with noise cancellation and long battery life.",
+    "price": 129.99,
+    "image": "/images/earbuds.jpg",
+    "category": "electronics"
+  },
+  {
+    "id": "13",
+    "name": "Fitness Tracker",
+    "description": "Monitor your steps, heart rate, and sleep with this smart fitness tracker.",
+    "price": 69.99,
+    "image": "/images/tracker.jpg",
+    "category": "electronics"
+  },
+  {
+    "id": "14",
+    "name": "Sunglasses",
+    "description": "UV-protected stylish sunglasses for outdoor adventures.",
+    "price": 39.99,
+    "image": "/images/glasses.jpg",
+    "category": "accessories"
+  },
+  {
+    "id": "15",
+    "name": "Men's Leather Belt",
+    "description": "Classic leather belt with a premium buckle.",
+    "price": 44.99,
+    "image": "/images/belt.jpg",
+    "category": "accessories"
+  },
+  {
+    "id": "16",
+    "name": "Laptop Stand",
+    "description": "Ergonomic aluminum laptop stand for better posture and cooling.",
+    "price": 49.99,
+    "image": "/images/stand.jpg",
+    "category": "electronics"
+  },
+  {
+    "id": "17",
+    "name": "Desk Lamp",
+    "description": "Adjustable LED desk lamp with multiple brightness settings.",
+    "price": 39.99,
+    "image": "/images/lamp.jpg",
+    "category": "home"
+  },
+  {
+    "id": "18",
+    "name": "Backpack",
+    "description": "Durable and water-resistant backpack with multiple compartments.",
+    "price": 69.99,
+    "image": "/images/bag.jpg",
+    "category": "accessories"
+  },
+  {
+    "id": "19",
+    "name": "Running Shoes",
+    "description": "Lightweight and breathable running shoes for all-day comfort.",
+    "price": 79.99,
+    "image": "/images/shoes.jpg",
+    "category": "clothing"
+  },
+  {
+    "id": "20",
+    "name": "Notebook",
+    "description": "Premium hardcover notebook with thick, smooth pages.",
+    "price": 14.99,
+    "image": "/images/notebook.jpg",
+    "category": "stationery"
+  },
+  {
+    "id": "21",
+    "name": "Electric Toothbrush",
+    "description": "Smart electric toothbrush with multiple cleaning modes.",
+    "price": 79.99,
+    "image": "/images/toothbrush.jpg",
+    "category": "health"
+  },
+  {
+    "id": "22",
+    "name": "LED String Lights",
+    "description": "Decorative LED string lights for cozy indoor ambiance.",
+    "price": 24.99,
+    "image": "/images/light.jpg",
+    "category": "home"
+  },
+  {
+    "id": "23",
+    "name": "Hiking Backpack",
+    "description": "Lightweight, weather-resistant hiking backpack with ample storage.",
+    "price": 99.99,
+    "image": "/images/Backpack.jpg",
+    "category": "accessories"
+  },
+  {
+    "id": "24",
+    "name": "VR Headset",
+    "description": "Immersive VR headset compatible with multiple platforms.",
+    "price": 199.99,
+    "image": "/images/VR.jpg",
+    "category": "electronics"
+  },
+  {
+    "id": "25",
+    "name": "Camping Tent",
+    "description": "Durable, waterproof 2-person camping tent.",
+    "price": 149.99,
+    "image": "/images/Tent.jpg",
+    "category": "outdoors"
+  },
+  {
+    "id": "26",
+    "name": "Portable Grill",
+    "description": "Compact charcoal grill for outdoor barbecues and picnics.",
+    "price": 89.99,
+    "image": "/images/grill.jpg",
+    "category": "outdoors"
+  },
+  {
+    "id": "27",
+    "name": "Travel Pillow",
+    "description": "Memory foam travel pillow for ultimate neck support.",
+    "price": 29.99,
+    "image": "/images/pillows.jpg",
+    "category": "travel"
+  },
+  {
+    "id": "28",
+    "name": "Beanie Hat",
+    "description": "Warm, stylish beanie hat for winter.",
+    "price": 19.99,
+    "image": "/images/beany.jpg",
+    "category": "clothing"
+  },
+  {
+    "id": "29",
+    "name": "Adjustable Dumbbells",
+    "description": "Space-saving adjustable dumbbells for home workouts.",
+    "price": 199.99,
+    "image": "/images/dumbbells.jpg",
+    "category": "fitness"
+  },
+  {
+    "id": "30",
+    "name": "Wall Art Canvas",
+    "description": "Modern abstract canvas wall art for home decor.",
+    "price": 59.99,
+    "image": "/images/canvas.jpg",
+    "category": "home"
+  }
+]
