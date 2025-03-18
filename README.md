@@ -37,4 +37,4 @@ A lightweight, responsive e-commerce store built with vanilla JavaScript, HTML, 
 1. Clone the repository:
    ```bash
    git clone https://github.com/petros1921/CodeAlpha_Hulum_E-commerce.git
-   cd CodeAlpha_Hulum_E-commerce
+   cd CodeAlpha_tasks_01
